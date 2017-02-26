@@ -1,0 +1,11 @@
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\bin\Debug\Eyedropper.exe.config
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\bin\Debug\Eyedropper.exe
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\bin\Debug\Eyedropper.pdb
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.csprojResolveAssemblyReference.cache
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.MainForm.resources
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.Properties.Resources.resources
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.csproj.GenerateResource.Cache
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.exe
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.pdb
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.ChooseColorForm.resources
+D:\pgram\Eyedropper\Eyedropper\Eyedropper\obj\Debug\Eyedropper.PreviewForm.resources
